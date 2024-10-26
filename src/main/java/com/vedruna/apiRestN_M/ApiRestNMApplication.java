@@ -1,13 +1,13 @@
-package com.vedruna.apiRest1_1;
+package com.vedruna.apiRestN_M;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiRest11Application {
+public class ApiRestNMApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApiRest11Application.class, args);
+		SpringApplication.run(ApiRestNMApplication.class, args);
 	}
 
 }
